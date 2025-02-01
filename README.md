@@ -1,4 +1,4 @@
-
+![logo](https://github.com/techietoddler/techietoddler/blob/main/banner.png)
 
 <h1 align="center">👋 Hey there! TechieToddler here</h1>
 <h3 align="center">As a CSE student👩🏻‍💻, I'm diving into the world of security🔐while exploring machine learning and deep learning through various projects💻.</h3>
