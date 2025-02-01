@@ -2,10 +2,9 @@
 
 <h1 align="center">👋 Hey there! TechieToddler here</h1>
 <h3 align="center">As a CSE student👩🏻‍💻, I'm diving into the world of security🔐while exploring machine learning and deep learning through various projects💻.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rf&label=views&color=242424&style=plastic" alt="rf" /> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
